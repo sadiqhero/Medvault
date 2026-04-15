@@ -24,6 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Browse all records** → click "All Patients" to open the filterable, sortable table
 - **About** → click "About" to know more about MedVault
 - **Logout** → click "logout" to navigate to the login page
+- **CICD** → click "TESTING"
 
 ### The Core Team
 **Abubakar Ibrahim**
