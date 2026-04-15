@@ -14,7 +14,7 @@ const GENDERS: Gender[]        = ["Male","Female","Other"];
 
 const empty: NewPatientInput = {
   firstName: "", lastName: "", dateOfBirth: "", gender: "Male",
-  phone: "", diagnosis: "", bloodType: "O+", ward: "General", image: "/default-avatar.png",
+  phone: "", diagnosis: "", bloodType: "O+", ward: "General", image: "/default-avatar.jpg",
 };
 
 export default function NewPatientModal({ onClose, onSuccess, onPatientAdded }: Props) {
