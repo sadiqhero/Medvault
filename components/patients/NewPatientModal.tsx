@@ -70,7 +70,7 @@ export default function NewPatientModal({ onClose, onSuccess, onPatientAdded }: 
         diagnosis: form.diagnosis.trim(),
         bloodType: form.bloodType,
         ward: form.ward,
-        image: "/default-avatar.png",
+        image: "/default-avatar.jpg",
       };
       
       console.log("Sending payload:", payload); // Debug log
